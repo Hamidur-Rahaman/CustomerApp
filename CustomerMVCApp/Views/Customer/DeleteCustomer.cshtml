@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteCustomer</title>
+</head>
+<body>
+    <div>
+        @if (ViewBag.SMsg != null)
+        {
+            <p>@(ViewBag.SMsg)</p>
+        }
+        else if (ViewBag.FMsg != null)
+        {
+            <p>@(ViewBag.FMsg)</p>
+        }
+    </div>
+<div>
+    <form method="POST">
+        <table>
+            <tr>
+                <td>Code:</td>
+                <td><input type="text" id="Code" name="Code"/></td>
+            </tr>
+            <tr>
+                <td>Delete:</td>
+                <td><input type="submit" value="Delete"/></td>
+            </tr>
+        </table>
+    </form>
+</div>
+</body>
+</html>

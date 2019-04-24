@@ -1,0 +1,64 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddCustomer</title>
+</head>
+<body>
+<div>
+    @if (ViewBag.SMsg != null)
+    {
+        <p>@(ViewBag.SMsg)</p>
+    }
+    else if (ViewBag.FMsg != null)
+    {
+        <p>@(ViewBag.FMsg)</p>
+    }
+</div>
+<div>
+    <form method="POST">
+        <table>
+            <tr>
+                <td>Name:</td>
+                <td><input type="text" id="Name" name="Name"/></td>
+            </tr>
+            <tr>
+                <td>Code:</td>
+                <td><input type="text" id="Code" name="Code"/></td>
+            </tr>
+            <tr>
+                <td>Address:</td>
+                <td><input type="text" id="Address" name="Address"/></td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td><input type="text" id="Email" name="Email"/></td>
+            </tr>
+            <tr>
+                <td>Contact:</td>
+                <td><input type="text" id="Contact" name="Contact"/></td>
+            </tr>
+            <tr>
+                <td>Age:</td>
+                <td><input type="text" id="Age" name="Age"/></td>
+            </tr>
+            <tr>
+                <td>Loyality Point:</td>
+                <td><input type="text" id="LoyalityPoint" name="LoyalityPoint"/></td>
+            </tr>
+            <tr>
+                <td>Submit:</td>
+                <td><input type="Submit" value="save"/></td>
+            </tr>
+        </table>
+    </form>
+
+</div>
+</body>
+</html>

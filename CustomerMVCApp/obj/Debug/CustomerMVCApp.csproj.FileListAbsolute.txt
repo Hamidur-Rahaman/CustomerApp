@@ -1,0 +1,66 @@
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.csprojResolveAssemblyReference.cache
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll.config
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.pdb
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Mvc.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.xml
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.xml
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.xml
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.xml
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Mvc.xml
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.dll
+c:\users\hm durjoy\documents\visual studio 2013\Projects\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.pdb
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll.config
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.pdb
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.xml
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.xml
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.xml
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.xml
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.xml
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.csprojResolveAssemblyReference.cache
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.dll
+E:\Educational\BITM\myWork\MVC\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.pdb
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll.config
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.pdb
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.xml
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.xml
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.xml
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.xml
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.xml
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.csprojResolveAssemblyReference.cache
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.dll
+E:\Educational\BITM\myWork\MVC\customer2\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.pdb
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll.config
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\CustomerMVCApp.pdb
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Razor.xml
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.xml
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Deployment.xml
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Webpages.Razor.xml
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\bin\System.Web.Helpers.xml
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.csprojResolveAssemblyReference.cache
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.dll
+E:\Educational\BITM\myWork\MVC\ShowCustomerUsingList\CustomerMVCApp\CustomerMVCApp\obj\Debug\CustomerMVCApp.pdb
